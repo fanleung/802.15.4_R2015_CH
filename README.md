@@ -4,7 +4,7 @@
 
 # 在线阅读
 
-* GitBook：
+* GitBook：[https://fanleung.gitbooks.io/802-15-4\_r2015](https://fanleung.gitbooks.io/802-15-4_r2015)
 * Github：[https://github.com/fanleung/802.15.4\_R2015\_CH](https://github.com/fanleung/802.15.4_R2015_CH)
 
 # 翻译纠错

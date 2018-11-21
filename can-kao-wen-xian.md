@@ -2,3 +2,39 @@
 
 下列参考文件是申请本文件\(即，它们必须被理解和使用，因此每个引用的文档都在文本中引用，并解释其与本文档的关系\)。对于过时的引用，只有引用的版本适用。对于未注明日期的引用，引用文件的最新版本\(包括任何修订或勘误表\)适用。
 
+
+
+ANSI X3.66-1979, Advanced Data Communication Control Procedures.
+
+
+
+Code of Federal Regulations, Title 47: Telecommunication, Part 90—Private Land Mobile Radio Services,
+
+Subpart S—Regulations Governing Licensing and Use of Frequencies in the 806–824, 851–869, 896–901,
+
+and 935–940 MHz Bands \(47 CFR, Part 90, Subpart S\).
+
+
+
+Code of Federal Regulations, Title 47: Telecommunication, Part 90—Private Land Mobile Radio Services,
+
+Subpart  Y—Regulations  Governing  Licensing  and  Use  of  Frequencies  in  the  4940–4990  MHz  Band
+
+\(47 CFR, Part 90, Subpart Y\).
+
+
+
+FIPS Pub 197, Advanced Encryption Standard \(AES\).
+
+
+
+IEEE  Std  802®-2014,  IEEE  Standards  for  Local  and  Metropolitan  Area  Networks:  Overview  and
+
+Architecture.
+
+
+
+IETF  RFC  6225,  Dynamic  Host  Configuration  Protocol  Options  for  Coordinate-Based  Location
+
+Configuration Information, Internet Engineering Task Force.
+
