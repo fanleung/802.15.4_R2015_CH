@@ -5,9 +5,13 @@
 # 在线阅读
 
 * GitBook：
-* Github：
+* Github：[https://github.com/fanleung/802.15.4\_R2015\_CH](https://github.com/fanleung/802.15.4_R2015_CH)
 
 # 翻译纠错
+
+
+
+参考：[https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4](https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4)
 
 
 
