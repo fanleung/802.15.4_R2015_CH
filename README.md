@@ -9,7 +9,8 @@
 
 # 翻译纠错
 
-* 
+* TODO
+
 # 参考
 
 参考链接：[https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4](https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4)
