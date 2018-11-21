@@ -1,4 +1,4 @@
-# IEEE 802.15.4\_2015  个人翻译版
+# IEEE 802.15.4\_2015  个人翻译版 {#fanleung}
 
 * 最近在阅读 802.15.4 协议，为了加深印象开始翻译，仅供参考
 
@@ -13,6 +13,4 @@
 # 参考
 
 参考链接：[https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4](https://www.gitbook.com/read/book/tidyjiang8/ieee-802-15-4)
-
-
 
