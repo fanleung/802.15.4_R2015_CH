@@ -10,9 +10,9 @@
 | ASN | absolute slot number | 绝对间隙数 |
 | ATI | allowed transmission interval | 允许传输间隔 |
 | BCH | Bose Chaudhuri Hocquenghem | 一种编码格式（人名） |
-| BDE | bit differential encoding |  |
+| BDE | bit differential encoding | 位差分编码 |
 | BLE | battery life extension | 电池寿命延时 |
-| BOP | beacon only period |  |
+| BOP | beacon only period | 仅信标周期 |
 | BPM | burst position modulation |  |
 | BPSK | binary phase-shift keying |  |
 | BSN | beacon sequence number |  |
@@ -166,11 +166,7 @@
 | UWB | ultra-wide band |  |
 | WPAN | wireless personal area network |  |
 
-
-
 关于 slot 和 interval 的区别：
 
 ![](/assets/slot && interval.png)
-
-
 
