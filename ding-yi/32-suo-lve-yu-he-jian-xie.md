@@ -95,69 +95,69 @@
 | MDSSS | multiplexed direct sequence spread spectrum | 多路复用直接序列扩频 |
 | MFR | MAC footer | MAC层帧尾 |
 | MHR | MAC header | MAC层头帧 |
-| MIC | message integrity code |  信息完整性代码 |
-| MLME | MAC sublayer management entity |  MAC子层管理实体 |
-| MLME-SAP | MAC sublayer management entity service access point |  MAC子层管理实体服务接入点 |
+| MIC | message integrity code | 信息完整性代码 |
+| MLME | MAC sublayer management entity | MAC子层管理实体 |
+| MLME-SAP | MAC sublayer management entity service access point | MAC子层管理实体服务接入点 |
 | MPM | multi-PHY management | 多物理层管理 |
-| MSB | most significant bit |  最高有效位 |
-| MSK | minimum shift keying |  最小频移键控 |
-| MPDU | MAC protocol data unit |  媒体协议数据单元 |
-| MPSK | m-ary phase shift keying |  多元相移键控 |
-| MSDU | MAC service data unit |  MAC服务数据单元 |
-| NRNSC | nonrecursive and nonsystematic code |  非递归和非系统代码 |
-| OOK | on-off keying |  开关键控 |
-| O-QPSK | offset quadrature phase-shift keying |  偏移四相相移键控 |
-| OUI | organizationally unique identifier |  组织唯一标识符 |
-| OVSF | orthongonal variable spreading factor |  正交变扩散系数 |
-| PAN | personal area network |  个人局域网 |
-| PCA | priority channel access |  优先通道访问 |
-| PD | physical layer data |  物理层数据 |
-| PD-SAP | physical layer data service access point |  物理层数据服务接入点 |
-| PER | packet error rate |  误包率 |
-| P-FSK | position-based frequency shift keying |  基于位置的频移键控 |
-| PHR | PHY header |  基带帧头 |
-| PHY | physical layer |  物理层 |
-| PIB | personal area network information base |  个人区域网络信息库 |
-| PICS | protocol implementation conformance statement |  协议实现一致性声明 |
-| PLME | physical layer management entity |  物理层管理实体 |
-| PLME-SAP | physical layer management entity service access point |  物理层管理实体服务接入点 |
-| PN | pseudo-random noise |  伪随机序列 |
-| PPDU | PHY protocol data unit |  物理层协议数据单元 |
-| PPM | pulse position modulation |  脉冲位置调制 |
-| PRBS | pseudo-random binary sequence |  伪随机二进制序列 |
-| PRF | pulse repetition frequency |  脉冲重复频率 |
-| PSD | power spectral density |  功率谱密度 |
-| PSDU | PHY service data unit |  物理服务数据单元 |
-| PSSS | parallel sequence spread spectrum | 并行序列扩频  |
-| QAM | quardrature amplitude modulation |  正交幅度调制 |
-| QPSK | quadrature phase-shift keying |  正交相移键控 |
-| RCC | rail communications and control |  铁路通信与控制 |
-| RCCN | rail communications and control network |  铁路通信控制网络 |
+| MSB | most significant bit | 最高有效位 |
+| MSK | minimum shift keying | 最小频移键控 |
+| MPDU | MAC protocol data unit | 媒体协议数据单元 |
+| MPSK | m-ary phase shift keying | 多元相移键控 |
+| MSDU | MAC service data unit | MAC服务数据单元 |
+| NRNSC | nonrecursive and nonsystematic code | 非递归和非系统代码 |
+| OOK | on-off keying | 开关键控 |
+| O-QPSK | offset quadrature phase-shift keying | 偏移四相相移键控 |
+| OUI | organizationally unique identifier | 组织唯一标识符 |
+| OVSF | orthongonal variable spreading factor | 正交变扩散系数 |
+| PAN | personal area network | 个人局域网 |
+| PCA | priority channel access | 优先通道访问 |
+| PD | physical layer data | 物理层数据 |
+| PD-SAP | physical layer data service access point | 物理层数据服务接入点 |
+| PER | packet error rate | 误包率 |
+| P-FSK | position-based frequency shift keying | 基于位置的频移键控 |
+| PHR | PHY header | 基带帧头 |
+| PHY | physical layer | 物理层 |
+| PIB | personal area network information base | 个人区域网络信息库 |
+| PICS | protocol implementation conformance statement | 协议实现一致性声明 |
+| PLME | physical layer management entity | 物理层管理实体 |
+| PLME-SAP | physical layer management entity service access point | 物理层管理实体服务接入点 |
+| PN | pseudo-random noise | 伪随机序列 |
+| PPDU | PHY protocol data unit | 物理层协议数据单元 |
+| PPM | pulse position modulation | 脉冲位置调制 |
+| PRBS | pseudo-random binary sequence | 伪随机二进制序列 |
+| PRF | pulse repetition frequency | 脉冲重复频率 |
+| PSD | power spectral density | 功率谱密度 |
+| PSDU | PHY service data unit | 物理服务数据单元 |
+| PSSS | parallel sequence spread spectrum | 并行序列扩频 |
+| QAM | quardrature amplitude modulation | 正交幅度调制 |
+| QPSK | quadrature phase-shift keying | 正交相移键控 |
+| RCC | rail communications and control | 铁路通信与控制 |
+| RCCN | rail communications and control network | 铁路通信控制网络 |
 | RDEV | ranging-capable device | 具有测距功能的设备 |
-| RF | radio frequency |  射频 |
-| RFD | reduced-function device |  简化功能设备 |
-| RFD-RX | reduced function device—receive only |  简化功能设备-只接收 |
-| RFD-TX | reduced function device—transmit only |  简化功能设备-只发送 |
+| RF | radio frequency | 射频 |
+| RFD | reduced-function device | 简化功能设备 |
+| RFD-RX | reduced function device—receive only | 简化功能设备-只接收 |
+| RFD-TX | reduced function device—transmit only | 简化功能设备-只发送 |
 | RFID | radio frequency identification | 射频ID |
-| RFRAME | ranging frame |  测距框架 |
-| RIT | receiver initiated transmission |  接收器发起传输 |
-| RIV | remainder initialization value |  |
-| RMARKER | ranging marker |  |
-| RSC | recursive and systematice code |  |
-| RSSI | receive signal strength indicator |  |
-| RX | receive or receiver |  |
-| SAB | slot allocation bitmap |  |
-| SD | superframe duration |  |
-| SF | spreading factor |  |
-| SFD | start-of-frame delimiter |  |
-| SHR | synchronization header |  |
-| SIFS | short interframe spacing |  |
-| SNR | signal-to-noise ratio |  |
-| SPC | super PAN coordinator |  |
-| STF | short training field |  |
-| SUN | smart utility network |  |
-| TID | transaction identifier |  |
-| TMCTP | TVWS multichannel cluster tree PAN |  |
+| RFRAME | ranging frame | 测距框架 |
+| RIT | receiver initiated transmission | 接收器发起传输 |
+| RIV | remainder initialization value |  余数初始化值 |
+| RMARKER | ranging marker |  测距标记 |
+| RSC | recursive and systematice code |  递归和系统代码 |
+| RSSI | receive signal strength indicator |  接收信号强度指示器 |
+| RX | receive or receiver | 接收器 |
+| SAB | slot allocation bitmap |  时隙分配位图 |
+| SD | superframe duration |  超帧持续时间 |
+| SF | spreading factor |  传播因素 |
+| SFD | start-of-frame delimiter |  帧起始分隔符 |
+| SHR | synchronization header |  同步头 |
+| SIFS | short interframe spacing |  帧间短间隔 |
+| SNR | signal-to-noise ratio |  信噪比 |
+| SPC | super PAN coordinator | 个人局域网超级协调员 |
+| STF | short training field |  短期培训领域 |
+| SUN | smart utility network |  智能公用事业网 |
+| TID | transaction identifier |  事务标识符 |
+| TMCTP | TVWS multichannel cluster tree PAN | television white space 多通道集群树 PAN |
 | TPC | turbo product code |  |
 | TRLE | time-slot relaying based link extension |  |
 | TSCH | timeslotted channel hopping |  |
