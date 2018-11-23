@@ -7,7 +7,7 @@
 | AIFS | acknowledgment interframe spacing | 确认帧间 |
 | AR | acknowledgment request | 应答请求 |
 | ASK | amplitude shift keying | 振幅键控 |
-| ASN | absolute slot number |  |
+| ASN | absolute slot number | 绝对间隙数 |
 | ATI | allowed transmission interval |  |
 | BCH | Bose Chaudhuri Hocquenghem |  |
 | BDE | bit differential encoding |  |
@@ -89,7 +89,7 @@
 | MAC | medium access control |  |
 | MBAN | medical body area network |  |
 | MCPS | MAC common part sublayer |  |
-| MCPS-SAP |  MAC common part sublayer service access point |  |
+| MCPS-SAP | MAC common part sublayer service access point |  |
 | MCS | modulation and coding scheme |  |
 | MD | multi-superframe duration |  |
 | MDSSS | multiplexed direct sequence spread spectrum |  |
@@ -99,13 +99,13 @@
 | MLME | MAC sublayer management entity |  |
 | MLME-SAP | MAC sublayer management entity service access point |  |
 | MPM | multi-PHY management |  |
-| MSB |  most significant bit |  |
+| MSB | most significant bit |  |
 | MSK | minimum shift keying |  |
 | MPDU | MAC protocol data unit |  |
 | MPSK | m-ary phase shift keying |  |
 | MSDU | MAC service data unit |  |
 | NRNSC | nonrecursive and nonsystematic code |  |
-| OOK |  on-off keying |  |
+| OOK | on-off keying |  |
 | O-QPSK | offset quadrature phase-shift keying |  |
 | OUI | organizationally unique identifier |  |
 | OVSF | orthongonal variable spreading factor |  |
@@ -137,9 +137,9 @@
 | RF | radio frequency |  |
 | RFD | reduced-function device |  |
 | RFD-RX | reduced function device—receive only |  |
-| RFD-TX  | reduced function device—transmit only |  |
+| RFD-TX | reduced function device—transmit only |  |
 | RFID | radio frequency identification |  |
-| RFRAME | ranging frame  |  |
+| RFRAME | ranging frame |  |
 | RIT | receiver initiated transmission |  |
 | RIV | remainder initialization value |  |
 | RMARKER | ranging marker |  |
