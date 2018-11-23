@@ -69,7 +69,7 @@
 | ID | identifier | 识别码 |
 | IDFT | inverse discrete Fourier transform | 离散傅里叶变换 |
 | IE | information element | 信息要素 |
-| IFS | interframe space or spacing |  帧间隔 |
+| IFS | interframe space or spacing | 帧间隔 |
 | Imm-Ack | immediate acknowledgment | 立即确认 |
 | ISR | interference-to-signal ratio | 干扰信号比 |
 | I-RIT | implicit receiver initiated transmission | 隐式接收器发起传输 |
@@ -78,23 +78,23 @@
 | LE | low energy | 低功耗 |
 | LECIM | low-energy, critical infrastructure monitoring | 低能耗，关键基础设施监控 |
 | LEIP | location enhancing information postamble | 位置增强信息后编码 |
-| LFSR | linear feedback shift register |  线性反馈移位寄存器 |
-| LIFS | long interframe spacing |  帧间长间隔 |
+| LFSR | linear feedback shift register | 线性反馈移位寄存器 |
+| LIFS | long interframe spacing | 帧间长间隔 |
 | LMR | land mobile radio | 陆地移动无线电 |
 | LRP | low rate pulse repetition frequency | 低速脉冲重复频率 |
 | LQI | link quality indication | 链路质量指示 |
 | LR-WPAN | low-rate wireless personal area network | 低速率无线个人区域网络 |
-| LSB | least significant bit |  最低有效位 |
+| LSB | least significant bit | 最低有效位 |
 | LTF | long training field | 长期训练场 |
-| MAC | medium access control |  媒体访问控制 |
+| MAC | medium access control | 媒体访问控制 |
 | MBAN | medical body area network | 医疗体域网 |
 | MCPS | MAC common part sublayer | MAC 公共部分子层 |
-| MCPS-SAP | MAC common part sublayer service access point |  |
-| MCS | modulation and coding scheme |  |
-| MD | multi-superframe duration |  |
-| MDSSS | multiplexed direct sequence spread spectrum |  |
-| MFR | MAC footer |  |
-| MHR | MAC header |  |
+| MCPS-SAP | MAC common part sublayer service access point |  MAC通用部件子层服务接入点 |
+| MCS | modulation and coding scheme | 调制和编码方案 |
+| MD | multi-superframe duration | 多超帧持续时间 |
+| MDSSS | multiplexed direct sequence spread spectrum |  多路复用直接序列扩频 |
+| MFR | MAC footer | MAC层帧尾 |
+| MHR | MAC header |  MAC层头帧 |
 | MIC | message integrity code |  |
 | MLME | MAC sublayer management entity |  |
 | MLME-SAP | MAC sublayer management entity service access point |  |
