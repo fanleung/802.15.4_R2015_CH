@@ -30,31 +30,31 @@
 | CSK | chirp-shift keying | 线性调频键控 |
 | CSL | coordinated sampled listing | 协调抽样列表 |
 | CSM | common signaling mode | 通用信令模式 |
-| CSMA-CA | carrier sense multiple access with collision avoidance |  载波侦听多路访问/冲突避免 |
+| CSMA-CA | carrier sense multiple access with collision avoidance | 载波侦听多路访问/冲突避免 |
 | CSS | chirp spread spectrum | 线性调频扩谱 |
 | DA | device announcement | 设备公告 |
-| DAA | detect and avoid |  超宽带干扰检测避免 |
-| DBS | dedicated beacon slot |  |
-| DEMUX | de-multiplexer |  |
-| DFT | discrete Fourier transform |  |
-| DPS | dynamic preamble selection |  |
-| DPSK | differential phase-shift keying |  |
-| DQCSK | differential quadrature chirp-shift keying |  |
-| DQPSK | differential quadrature phase-shift keying |  |
-| DSME | deterministic and synchronous multi-channel extension |  |
-| DSN | data sequence number |  |
-| DSSS | direct sequence spread spectrum |  |
-| EBSN | enhanced beacon sequence number |  |
-| ED | energy detection \(also in 6.2.8, extended duration\) |  |
-| EIRP | effective isotropic radiated power |  |
-| Enh-Ack | enhanced acknowledgment |  |
-| ESDU | encapsulated service data unit |  |
-| EUI-64 | 64-bit extended unique identifier |  |
-| EVM | error-vector magnitude |  |
-| FCC | Federal Communications Commission |  |
-| FCS | frame check sequence |  |
-| FEC | forward error correction |  |
-| FFD | full-function device |  |
+| DAA | detect and avoid | 超宽带干扰检测避免 |
+| DBS | dedicated beacon slot | 专用信标间隙 |
+| DEMUX | de-multiplexer | 信号分离器 |
+| DFT | discrete Fourier transform | 离散傅里叶变换 |
+| DPS | dynamic preamble selection | 动态前导码选择 |
+| DPSK | differential phase-shift keying | 差分相移键控 |
+| DQCSK | differential quadrature chirp-shift keying | 差分正交调频键控 |
+| DQPSK | differential quadrature phase-shift keying | 差分正交相移键控 |
+| DSME | deterministic and synchronous multi-channel extension | 确定性和同步多通道扩展 |
+| DSN | data sequence number | 数据序列号 |
+| DSSS | direct sequence spread spectrum |  直接序列扩频 |
+| EBSN | enhanced beacon sequence number | 增强的信标序列号 |
+| ED | energy detection \(also in 6.2.8, extended duration\) |  能源监测（延长期限） |
+| EIRP | effective isotropic radiated power |  有效全向辐射功率 |
+| Enh-Ack | enhanced acknowledgment | 增强应答 |
+| ESDU | encapsulated service data unit | 封装的服务数据单元 |
+| EUI-64 | 64-bit extended unique identifier | 64位扩展唯一标识符 |
+| EVM | error-vector magnitude |  误差向量 |
+| FCC | Federal Communications Commission | 联邦通信委员会 |
+| FCS | frame check sequence |  帧检查序列 |
+| FEC | forward error correction |  前向纠错 |
+| FFD | full-function device |  全功能设备 |
 | FICS | fragment integrity check sequence |  |
 | FoM | figure of merit |  |
 | Frak | fragment acknowledgment |  |
@@ -165,8 +165,6 @@
 | TX | transmit or transmitter |  |
 | UWB | ultra-wide band |  |
 | WPAN | wireless personal area network |  |
-
-
 
 关于 slot 和 interval 的区别：![](/assets/slot && interval.png)
 
