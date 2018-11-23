@@ -58,37 +58,37 @@
 | FICS | fragment integrity check sequence | 片段完整性检查序列 |
 | FoM | figure of merit | 灵敏值 |
 | Frak | fragment acknowledgment | 片段应答 |
-| FSCD | fragment sequence context description |  |
-| FSK | frequency shift keying |  |
-| GDB | geolocation database |  |
-| GFSK | Gaussian frequency-shift keying |  |
-| GMSK | Gaussian-filtered minimum shift keying |  |
-| GTS | guaranteed time slot |  |
-| HCS | header check sequence |  |
-| HRP | high rate pulse repetition frequency |  |
-| ID | identifier |  |
-| IDFT | inverse discrete Fourier transform |  |
-| IE | information element |  |
-| IFS | interframe space or spacing |  |
-| Imm-Ack | immediate acknowledgment |  |
-| ISR | interference-to-signal ratio |  |
-| I-RIT | implicit receiver initiated transmission |  |
-| LBT | listen before talk |  |
-| LCP | linear combination of pulses |  |
-| LE | low energy |  |
-| LECIM | low-energy, critical infrastructure monitoring |  |
-| LEIP | location enhancing information postamble |  |
-| LFSR | linear feedback shift register |  |
-| LIFS | long interframe spacing |  |
-| LMR | land mobile radio |  |
-| LRP | low rate pulse repetition frequency |  |
-| LQI | link quality indication |  |
-| LR-WPAN | low-rate wireless personal area network |  |
-| LSB | least significant bit |  |
-| LTF | long training field |  |
-| MAC | medium access control |  |
-| MBAN | medical body area network |  |
-| MCPS | MAC common part sublayer |  |
+| FSCD | fragment sequence context description | 片段序列上下文描述 |
+| FSK | frequency shift keying | 频移键控 |
+| GDB | geolocation database | 地理定位数据库 |
+| GFSK | Gaussian frequency-shift keying | 高斯频移键控 |
+| GMSK | Gaussian-filtered minimum shift keying | 高斯滤波的最小频移键控 |
+| GTS | guaranteed time slot | 时隙保证 |
+| HCS | header check sequence | 标题检查顺序 |
+| HRP | high rate pulse repetition frequency | 高速脉冲重复频率 |
+| ID | identifier | 识别码 |
+| IDFT | inverse discrete Fourier transform | 离散傅里叶变换 |
+| IE | information element | 信息要素 |
+| IFS | interframe space or spacing |  帧间隔 |
+| Imm-Ack | immediate acknowledgment | 立即确认 |
+| ISR | interference-to-signal ratio | 干扰信号比 |
+| I-RIT | implicit receiver initiated transmission | 隐式接收器发起传输 |
+| LBT | listen before talk | 先听后说 |
+| LCP | linear combination of pulses | 脉冲的线性组合 |
+| LE | low energy | 低功耗 |
+| LECIM | low-energy, critical infrastructure monitoring | 低能耗，关键基础设施监控 |
+| LEIP | location enhancing information postamble | 位置增强信息后编码 |
+| LFSR | linear feedback shift register |  线性反馈移位寄存器 |
+| LIFS | long interframe spacing |  帧间长间隔 |
+| LMR | land mobile radio | 陆地移动无线电 |
+| LRP | low rate pulse repetition frequency | 低速脉冲重复频率 |
+| LQI | link quality indication | 链路质量指示 |
+| LR-WPAN | low-rate wireless personal area network | 低速率无线个人区域网络 |
+| LSB | least significant bit |  最低有效位 |
+| LTF | long training field | 长期训练场 |
+| MAC | medium access control |  媒体访问控制 |
+| MBAN | medical body area network | 医疗体域网 |
+| MCPS | MAC common part sublayer | MAC 公共部分子层 |
 | MCPS-SAP | MAC common part sublayer service access point |  |
 | MCS | modulation and coding scheme |  |
 | MD | multi-superframe duration |  |
