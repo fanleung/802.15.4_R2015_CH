@@ -89,58 +89,58 @@
 | MAC | medium access control | 媒体访问控制 |
 | MBAN | medical body area network | 医疗体域网 |
 | MCPS | MAC common part sublayer | MAC 公共部分子层 |
-| MCPS-SAP | MAC common part sublayer service access point |  MAC通用部件子层服务接入点 |
+| MCPS-SAP | MAC common part sublayer service access point | MAC通用部件子层服务接入点 |
 | MCS | modulation and coding scheme | 调制和编码方案 |
 | MD | multi-superframe duration | 多超帧持续时间 |
-| MDSSS | multiplexed direct sequence spread spectrum |  多路复用直接序列扩频 |
+| MDSSS | multiplexed direct sequence spread spectrum | 多路复用直接序列扩频 |
 | MFR | MAC footer | MAC层帧尾 |
-| MHR | MAC header |  MAC层头帧 |
-| MIC | message integrity code |  |
-| MLME | MAC sublayer management entity |  |
-| MLME-SAP | MAC sublayer management entity service access point |  |
-| MPM | multi-PHY management |  |
-| MSB | most significant bit |  |
-| MSK | minimum shift keying |  |
-| MPDU | MAC protocol data unit |  |
-| MPSK | m-ary phase shift keying |  |
-| MSDU | MAC service data unit |  |
-| NRNSC | nonrecursive and nonsystematic code |  |
-| OOK | on-off keying |  |
-| O-QPSK | offset quadrature phase-shift keying |  |
-| OUI | organizationally unique identifier |  |
-| OVSF | orthongonal variable spreading factor |  |
-| PAN | personal area network |  |
-| PCA | priority channel access |  |
-| PD | physical layer data |  |
-| PD-SAP | physical layer data service access point |  |
-| PER | packet error rate |  |
-| P-FSK | position-based frequency shift keying |  |
-| PHR | PHY header |  |
-| PHY | physical layer |  |
-| PIB | personal area network information base |  |
-| PICS | protocol implementation conformance statement |  |
-| PLME | physical layer management entity |  |
-| PLME-SAP | physical layer management entity service access point |  |
-| PN | pseudo-random noise |  |
-| PPDU | PHY protocol data unit |  |
-| PPM | pulse position modulation |  |
-| PRBS | pseudo-random binary sequence |  |
-| PRF | pulse repetition frequency |  |
-| PSD | power spectral density |  |
-| PSDU | PHY service data unit |  |
-| PSSS | parallel sequence spread spectrum |  |
-| QAM | quardrature amplitude modulation |  |
-| QPSK | quadrature phase-shift keying |  |
-| RCC | rail communications and control |  |
-| RCCN | rail communications and control network |  |
-| RDEV | ranging-capable device |  |
-| RF | radio frequency |  |
-| RFD | reduced-function device |  |
-| RFD-RX | reduced function device—receive only |  |
-| RFD-TX | reduced function device—transmit only |  |
-| RFID | radio frequency identification |  |
-| RFRAME | ranging frame |  |
-| RIT | receiver initiated transmission |  |
+| MHR | MAC header | MAC层头帧 |
+| MIC | message integrity code |  信息完整性代码 |
+| MLME | MAC sublayer management entity |  MAC子层管理实体 |
+| MLME-SAP | MAC sublayer management entity service access point |  MAC子层管理实体服务接入点 |
+| MPM | multi-PHY management | 多物理层管理 |
+| MSB | most significant bit |  最高有效位 |
+| MSK | minimum shift keying |  最小频移键控 |
+| MPDU | MAC protocol data unit |  媒体协议数据单元 |
+| MPSK | m-ary phase shift keying |  多元相移键控 |
+| MSDU | MAC service data unit |  MAC服务数据单元 |
+| NRNSC | nonrecursive and nonsystematic code |  非递归和非系统代码 |
+| OOK | on-off keying |  开关键控 |
+| O-QPSK | offset quadrature phase-shift keying |  偏移四相相移键控 |
+| OUI | organizationally unique identifier |  组织唯一标识符 |
+| OVSF | orthongonal variable spreading factor |  正交变扩散系数 |
+| PAN | personal area network |  个人局域网 |
+| PCA | priority channel access |  优先通道访问 |
+| PD | physical layer data |  物理层数据 |
+| PD-SAP | physical layer data service access point |  物理层数据服务接入点 |
+| PER | packet error rate |  误包率 |
+| P-FSK | position-based frequency shift keying |  基于位置的频移键控 |
+| PHR | PHY header |  基带帧头 |
+| PHY | physical layer |  物理层 |
+| PIB | personal area network information base |  个人区域网络信息库 |
+| PICS | protocol implementation conformance statement |  协议实现一致性声明 |
+| PLME | physical layer management entity |  物理层管理实体 |
+| PLME-SAP | physical layer management entity service access point |  物理层管理实体服务接入点 |
+| PN | pseudo-random noise |  伪随机序列 |
+| PPDU | PHY protocol data unit |  物理层协议数据单元 |
+| PPM | pulse position modulation |  脉冲位置调制 |
+| PRBS | pseudo-random binary sequence |  伪随机二进制序列 |
+| PRF | pulse repetition frequency |  脉冲重复频率 |
+| PSD | power spectral density |  功率谱密度 |
+| PSDU | PHY service data unit |  物理服务数据单元 |
+| PSSS | parallel sequence spread spectrum | 并行序列扩频  |
+| QAM | quardrature amplitude modulation |  正交幅度调制 |
+| QPSK | quadrature phase-shift keying |  正交相移键控 |
+| RCC | rail communications and control |  铁路通信与控制 |
+| RCCN | rail communications and control network |  铁路通信控制网络 |
+| RDEV | ranging-capable device | 具有测距功能的设备 |
+| RF | radio frequency |  射频 |
+| RFD | reduced-function device |  简化功能设备 |
+| RFD-RX | reduced function device—receive only |  简化功能设备-只接收 |
+| RFD-TX | reduced function device—transmit only |  简化功能设备-只发送 |
+| RFID | radio frequency identification | 射频ID |
+| RFRAME | ranging frame |  测距框架 |
+| RIT | receiver initiated transmission |  接收器发起传输 |
 | RIV | remainder initialization value |  |
 | RMARKER | ranging marker |  |
 | RSC | recursive and systematice code |  |
