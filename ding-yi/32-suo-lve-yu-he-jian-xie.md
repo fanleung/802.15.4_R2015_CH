@@ -13,27 +13,27 @@
 | BDE | bit differential encoding | 位差分编码 |
 | BLE | battery life extension | 电池寿命延时 |
 | BOP | beacon only period | 仅信标周期 |
-| BPM | burst position modulation |  |
-| BPSK | binary phase-shift keying |  |
-| BSN | beacon sequence number |  |
-| CAP | contention access period |  |
-| CBC-MAC | cipher block chaining message authentication code |  |
-| CCA | clear channel assessment |  |
-| CCM | counter mode encryption and cipher block chaining message authentication code |  |
-| CCM\* | extension of counter mode encryption and cipher block chaining message authentication code |  |
-| CFP | contention-free period |  |
-| CID | company identifier |  |
-| CP | cyclic prefix |  |
-| CoU | chirp on ultra-wide band |  |
-| CRC | cyclic redundancy check |  |
-| CS | continuous spectrum |  |
-| CSK | chirp-shift keying |  |
-| CSL | coordinated sampled listing |  |
-| CSM | common signaling mode |  |
-| CSMA-CA | carrier sense multiple access with collision avoidance |  |
-| CSS | chirp spread spectrum |  |
-| DA | device announcement |  |
-| DAA | detect and avoid |  |
+| BPM | burst position modulation | 突发位置调制 |
+| BPSK | binary phase-shift keying | 二进制相移键控 |
+| BSN | beacon sequence number | 信标序列号 |
+| CAP | contention access period | 竞争接入阶段 |
+| CBC-MAC | cipher block chaining message authentication code | 分块加密法成链信息证明密码 |
+| CCA | clear channel assessment | 空闲信道检测 |
+| CCM | counter mode encryption and cipher block chaining message authentication code | 带有 CBC-MAC \(运行模式\)的计数器 |
+| CCM\* | extension of counter mode encryption and cipher block chaining message authentication code | CCM 延伸 |
+| CFP | contention-free period | 免竞争阶段 |
+| CID | company identifier | 公司标识符 |
+| CP | cyclic prefix | 循环前缀 |
+| CoU | chirp on ultra-wide band | 在超宽带上线性调频 |
+| CRC | cyclic redundancy check | 循环冗余检查 |
+| CS | continuous spectrum | 连续光谱 |
+| CSK | chirp-shift keying | 线性调频键控 |
+| CSL | coordinated sampled listing | 协调抽样列表 |
+| CSM | common signaling mode | 通用信令模式 |
+| CSMA-CA | carrier sense multiple access with collision avoidance |  载波侦听多路访问/冲突避免 |
+| CSS | chirp spread spectrum | 线性调频扩谱 |
+| DA | device announcement | 设备公告 |
+| DAA | detect and avoid |  超宽带干扰检测避免 |
 | DBS | dedicated beacon slot |  |
 | DEMUX | de-multiplexer |  |
 | DFT | discrete Fourier transform |  |
@@ -166,7 +166,7 @@
 | UWB | ultra-wide band |  |
 | WPAN | wireless personal area network |  |
 
-关于 slot 和 interval 的区别：
 
-![](/assets/slot && interval.png)
+
+关于 slot 和 interval 的区别：![](/assets/slot && interval.png)
 
