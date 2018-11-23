@@ -141,30 +141,30 @@
 | RFID | radio frequency identification | 射频ID |
 | RFRAME | ranging frame | 测距框架 |
 | RIT | receiver initiated transmission | 接收器发起传输 |
-| RIV | remainder initialization value |  余数初始化值 |
-| RMARKER | ranging marker |  测距标记 |
-| RSC | recursive and systematice code |  递归和系统代码 |
-| RSSI | receive signal strength indicator |  接收信号强度指示器 |
+| RIV | remainder initialization value | 余数初始化值 |
+| RMARKER | ranging marker | 测距标记 |
+| RSC | recursive and systematice code | 递归和系统代码 |
+| RSSI | receive signal strength indicator | 接收信号强度指示器 |
 | RX | receive or receiver | 接收器 |
-| SAB | slot allocation bitmap |  时隙分配位图 |
-| SD | superframe duration |  超帧持续时间 |
-| SF | spreading factor |  传播因素 |
-| SFD | start-of-frame delimiter |  帧起始分隔符 |
-| SHR | synchronization header |  同步头 |
-| SIFS | short interframe spacing |  帧间短间隔 |
-| SNR | signal-to-noise ratio |  信噪比 |
+| SAB | slot allocation bitmap | 时隙分配位图 |
+| SD | superframe duration | 超帧持续时间 |
+| SF | spreading factor | 传播因素 |
+| SFD | start-of-frame delimiter | 帧起始分隔符 |
+| SHR | synchronization header | 同步头 |
+| SIFS | short interframe spacing | 帧间短间隔 |
+| SNR | signal-to-noise ratio | 信噪比 |
 | SPC | super PAN coordinator | 个人局域网超级协调员 |
-| STF | short training field |  短期培训领域 |
-| SUN | smart utility network |  智能公用事业网 |
-| TID | transaction identifier |  事务标识符 |
+| STF | short training field | 短期培训领域 |
+| SUN | smart utility network | 智能公用事业网 |
+| TID | transaction identifier | 事务标识符 |
 | TMCTP | TVWS multichannel cluster tree PAN | television white space 多通道集群树 PAN |
-| TPC | turbo product code |  |
-| TRLE | time-slot relaying based link extension |  |
-| TSCH | timeslotted channel hopping |  |
-| TVWS | television white space |  |
-| TX | transmit or transmitter |  |
-| UWB | ultra-wide band |  |
-| WPAN | wireless personal area network |  |
+| TPC | turbo product code | turbo产品代码 |
+| TRLE | time-slot relaying based link extension |  基于时隙中继的链路扩展 |
+| TSCH | timeslotted channel hopping | 时隙跳频 |
+| TVWS | television white space |  电视空白 |
+| TX | transmit or transmitter | 发送器 |
+| UWB | ultra-wide band |  超宽带 |
+| WPAN | wireless personal area network |  无线个域网 |
 
 关于 slot 和 interval 的区别：![](/assets/slot && interval.png)
 
