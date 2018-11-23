@@ -8,10 +8,10 @@
 | AR | acknowledgment request | 应答请求 |
 | ASK | amplitude shift keying | 振幅键控 |
 | ASN | absolute slot number | 绝对间隙数 |
-| ATI | allowed transmission interval |  |
-| BCH | Bose Chaudhuri Hocquenghem |  |
+| ATI | allowed transmission interval | 允许传输间隔 |
+| BCH | Bose Chaudhuri Hocquenghem | 一种编码格式（人名） |
 | BDE | bit differential encoding |  |
-| BLE | battery life extension |  |
+| BLE | battery life extension | 电池寿命延时 |
 | BOP | beacon only period |  |
 | BPM | burst position modulation |  |
 | BPSK | binary phase-shift keying |  |
@@ -165,6 +165,12 @@
 | TX | transmit or transmitter |  |
 | UWB | ultra-wide band |  |
 | WPAN | wireless personal area network |  |
+
+
+
+关于 slot 和 interval 的区别：
+
+![](/assets/slot && interval.png)
 
 
 
