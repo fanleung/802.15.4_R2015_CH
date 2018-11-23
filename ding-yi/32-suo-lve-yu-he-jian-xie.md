@@ -43,21 +43,21 @@
 | DQPSK | differential quadrature phase-shift keying | 差分正交相移键控 |
 | DSME | deterministic and synchronous multi-channel extension | 确定性和同步多通道扩展 |
 | DSN | data sequence number | 数据序列号 |
-| DSSS | direct sequence spread spectrum |  直接序列扩频 |
+| DSSS | direct sequence spread spectrum | 直接序列扩频 |
 | EBSN | enhanced beacon sequence number | 增强的信标序列号 |
-| ED | energy detection \(also in 6.2.8, extended duration\) |  能源监测（延长期限） |
-| EIRP | effective isotropic radiated power |  有效全向辐射功率 |
+| ED | energy detection \(also in 6.2.8, extended duration\) | 能源监测（延长期限） |
+| EIRP | effective isotropic radiated power | 有效全向辐射功率 |
 | Enh-Ack | enhanced acknowledgment | 增强应答 |
 | ESDU | encapsulated service data unit | 封装的服务数据单元 |
 | EUI-64 | 64-bit extended unique identifier | 64位扩展唯一标识符 |
-| EVM | error-vector magnitude |  误差向量 |
+| EVM | error-vector magnitude | 误差向量 |
 | FCC | Federal Communications Commission | 联邦通信委员会 |
-| FCS | frame check sequence |  帧检查序列 |
-| FEC | forward error correction |  前向纠错 |
-| FFD | full-function device |  全功能设备 |
-| FICS | fragment integrity check sequence |  |
-| FoM | figure of merit |  |
-| Frak | fragment acknowledgment |  |
+| FCS | frame check sequence | 帧检查序列 |
+| FEC | forward error correction | 前向纠错 |
+| FFD | full-function device | 全功能设备 |
+| FICS | fragment integrity check sequence | 片段完整性检查序列 |
+| FoM | figure of merit | 灵敏值 |
+| Frak | fragment acknowledgment | 片段应答 |
 | FSCD | fragment sequence context description |  |
 | FSK | frequency shift keying |  |
 | GDB | geolocation database |  |
