@@ -10,6 +10,6 @@
   * [4.1 通用](ge-shi-gui-fan.md)
   * [4.2 字段](ge-shi-gui-fan/42-ling-yu.md)
   * [4.3 数字](43-shu-zi.md)
-  * 4.4 字符串
+  * [4.4 字符串](44-zi-fu-chuan.md)
   * 4.5 保留的区域和数值
 
