@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | 字段名称/类型（数字） | 字段名称/类型（bit string） | 字段名称/类型（bit string） | .. |
 
-<center>图4.2 通用字段格式</center>
+图4.2 通用字段格式
 
 <center> test </center>
 
