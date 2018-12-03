@@ -12,4 +12,18 @@
   * [4.3 数字](src/4/4.3 Numbers.md)
   * [4.4 字符串](src/4/4.4 Strings.md)
   * [4.5 保留的区域和数值](src/4/4.5 Reserved fields and values.md)
+* [5. 通用描述](src/5/5.1 introduction.md)
+  * [5.1 介绍](src/5/5.1 introduction.md)
+  * [5.2 特殊应用场景](src/5/5.2 Special application spaces.md)
+  * [5.3 IEEE 802.15.4 WPAN 的组件](src/5/5.3 Components of the IEEE 802.15.4 WPAN.md)
+  * [5.4 Multi-PHY management \(MPM\) of the SUN WPAN](src/5/5.4 Multi-PHY management %28MPM%29 of the SUN WPAN.md)
+  * [5.5 网络拓扑](src/5/5.5 Network topologies.md)
+  * [5.6 架构](src/5/5.6 Architecture.md)
+  * [5.7 功能概述](src/5/5.7 Functional overview.md)
+  * [5.8 原语的概念](src/5/5.8 Concept of primitives.md)
+  * [5.9 弃用的功能](src/5/5.9 Deprecation of features.md)
+* 6.
+* 7
+* 8
+* 9
 
