@@ -28,7 +28,13 @@
     * [5.7.6  安全](src/5/5.7 Functional overview/5.7.6 security.md)
   * [5.8 原语的概念](src/5/5.8 Concept of primitives.md)
   * [5.9 弃用的功能](src/5/5.9 Deprecation of features.md)
-* [6.](6.md)
+* [6. MAC功能描述](6.md)
+  * [6.1 设备类型和约定](6/61-she-bei-lei-xing-he-yue-ding.md)
+  * 6.2
+  * 6.3
+  * 6.4
+  * 6.5
+  * 6.6
 * 7
 * 8
 * 9
