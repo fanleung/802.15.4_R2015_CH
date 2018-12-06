@@ -12,7 +12,7 @@
 
 　　MAC定义中的一些时间参数是以PHY符号为单位的。对于具有多个符号周期的PHYs，用于MAC参数的持续时间在PHY子句中定义。
 
-　　广播短地址被定义为0xffff。广播PAN ID被定义为0xffff。广播地址是指广播短地址或64位广播MAC地址，在IEEE Std 802-2014中定义为0xffff ffff ffff。
+　　广播短地址被定义为0xffff。广播PAN ID被定义为0xffff。广播地址是指广播短地址或64位广播MAC地址，在IEEE Std 802-2014中定义为0xffff ffff ffff。****
 
 　　确认帧和计时器不会显示在消息序列图中，除非它们影响该过程的行为。
 
