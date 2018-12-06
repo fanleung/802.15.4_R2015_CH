@@ -30,21 +30,21 @@
   * [5.9 弃用的功能](src/5/5.9 Deprecation of features.md)
 * [6. MAC功能描述](src/6/61-she-bei-lei-xing-he-yue-ding.md)
   * [6.1 设备类型和约定](src/6/61-she-bei-lei-xing-he-yue-ding.md)
-  * [6.2 信道访问](src/6/62/621.md)
-    * [6.2.1 超帧结构](src/6/62/621.md)
-    * [6.2.2](src/6/62-xin-dao-fang-wen/622.md)
-    * 6.2.3
-    * 6.2.4
-    * 6.2.5
-    * 6.2.6
-    * 6.2.7
-    * 6.2.8
-    * 6.2.9
-    * 6.2.10
-  * 6.3
-  * 6.4
-  * 6.5
-  * 6.6
+  * [6.2 信道访问](src/6/62-xin-dao-fang-wen/621.md)
+    * [6.2.1 超帧结构](src/6/62-xin-dao-fang-wen/621.md)
+    * [6.2.2 接收超帧和发送超帧的时序](src/6/62-xin-dao-fang-wen/622.md)
+    * [6.2.3](src/6/62/623.md)
+    * [6.2.4](src/6/62-xin-dao-fang-wen/624.md)
+    * [6.2.5](src/6/62-xin-dao-fang-wen/625.md)
+    * [6.2.6](src/6/62-xin-dao-fang-wen/626.md)
+    * [6.2.7](src/6/62-xin-dao-fang-wen/627.md)
+    * [6.2.8](src/6/62-xin-dao-fang-wen/628.md)
+    * [6.2.9](src/6/62-xin-dao-fang-wen/629.md)
+    * [6.2.10](src/6/62-xin-dao-fang-wen/6210.md)
+  * [6.3](src/6/63.md)
+  * [6.4](src/6/64.md)
+  * [6.5](src/6/65.md)
+  * [6.6](src/6/66.md)
 * 7
 * 8
 * 9
