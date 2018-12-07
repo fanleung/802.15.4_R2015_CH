@@ -36,7 +36,7 @@
     * [6.2.3 MPM程序的增强信标帧时间](src/6/62/623.md)
     * [6.2.4 帧间间隔IFS](src/6/62-xin-dao-fang-wen/624.md)
     * [6.2.5 随机访问方法](src/6/62-xin-dao-fang-wen/625.md)
-    * [6.2.6](src/6/62-xin-dao-fang-wen/626.md)
+    * [6.2.6 TSCH 时隙帧结构](src/6/62-xin-dao-fang-wen/626.md)
     * [6.2.7](src/6/62-xin-dao-fang-wen/627.md)
     * [6.2.8](src/6/62-xin-dao-fang-wen/628.md)
     * [6.2.9](src/6/62-xin-dao-fang-wen/629.md)
