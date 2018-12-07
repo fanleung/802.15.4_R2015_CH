@@ -40,7 +40,7 @@
     * [6.2.7 低功耗功能描述](src/6/62-xin-dao-fang-wen/627.md)
     * [6.2.8 超帧用于TMCTP操作](src/6/62-xin-dao-fang-wen/628.md)
     * [6.2.9 铁路通信与控制网络\(RCCN\)超框架结构](src/6/62-xin-dao-fang-wen/629.md)
-    * [6.2.10](src/6/62-xin-dao-fang-wen/6210.md)
+    * [6.2.10 跳频](src/6/62-xin-dao-fang-wen/6210.md)
   * [6.3](src/6/63.md)
   * [6.4](src/6/64.md)
   * [6.5](src/6/65.md)
